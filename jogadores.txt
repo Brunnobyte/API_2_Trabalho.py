@@ -1,0 +1,8 @@
+101;Vinícius Júnior;1;Atacante;25;3
+102;Alisson;1;Goleiro;33;0
+103;Lionel Messi;2;Atacante;38;4
+104;Kylian Mbappé;3;Atacante;27;5
+105;Wataru Endo;4;Meio;32;1
+106;Neymar Jr;1;Atacante;34;0
+107;Raphinha;1;Atacante;20;1
+

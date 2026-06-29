@@ -1,0 +1,9 @@
+1;Brasil;CONMEBOL;C;4;5
+2;Argentina;CONMEBOL;J;6;3
+3;França;UEFA;I;2;2
+4;Japão;AFC;F;4;0
+5;Espanha;UEFA;H;4;1
+6;Uruguai;CONMEBOL;H;2;2
+6;Inglaterra;UEFA;L;4;1
+
+
